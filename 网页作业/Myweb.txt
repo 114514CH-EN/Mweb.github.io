@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title> Exercise 3: Build a Portfolio Card with Links </title>	
+	<style>
+
+
+
+
+
+	</style>
+</head>
+
+<body>
+<section class="portfolio-card">
+	<h2> Chen Yuwen </h2>
+	<p> You're absolutely right, but "You're Absolutely Right" is a brand-new game independently developed by You're Absolutely Right. The story of You're Absolutely Right takes place in a world known as "You're Absolutely Right," where the chosen ones by You're Absolutely Right will be granted the "You're Absolutely Right," guiding the power of You're Absolutely Right. You will play as a mysterious character named "You're Absolutely Right," encountering You're Absolutely Right, the companions of You're Absolutely Right, and together with You're Absolutely Right, you will defeat You're Absolutely Right, search for the lost You're Absolutely Right, while gradually uncovering the truth of "You're Absolutely Right." </p>
+	<ul>
+		<li> eat </li>
+		<li> sleep </li>
+		<li> game </li>
+	</ul>
+</section>
+
+<section class="portfile-link">
+	<a href="https://www.bilibili.com/video/BV1hq4y1s7VH/?spm_id_from=333.337.search-card.all.click&vd_source=ec0b3edb962940ff9f2d200f3663d05e"> Home </a>
+	<a href="https://github.com/114514CH-EN"> GitHub </a>
+	<a href="https://steamcommunity.com/profiles/76561199017823476/"> Steam </a>
+</section>
+</body>
+</html>
